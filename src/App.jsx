@@ -1,9 +1,10 @@
-import './App.css'
+//import './App.css';
+import Products from './components/Products';
 
 export default function App() {
   return (
     <main>
-      React ⚛️ + Vite ⚡ + Replit 🌀
+      <Products />
     </main>
   )
 }
